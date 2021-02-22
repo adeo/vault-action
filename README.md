@@ -1,5 +1,10 @@
 # Vault GitHub Action
 
+
+This repo was forked when vault-action was a community repo. Now it's maintened by Hashicorp. 
+You should use it directly [hashicorp/vault-action](https://github.com/hashicorp/vault-action).
+This repo is now archived.
+
 ---
 
 **Please note**: We take Vault's security and our users' trust very seriously. If you believe you have found a security issue in Vault or this Vault Action, _please responsibly disclose_ by contacting us at [security@hashicorp.com](mailto:security@hashicorp.com).
